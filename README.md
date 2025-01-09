@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Unity and C#**
 
-- 🤝 I’m currently working at [Atlas Space](https://atlas.space)
-
 - 📫 How to reach me **anacalyunus61@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yb9yAXhdY9o8BBN6aYcEyZRN4eIyQQkp/view?usp=sharing](https://drive.google.com/file/d/1yb9yAXhdY9o8BBN6aYcEyZRN4eIyQQkp/view?usp=sharing)
